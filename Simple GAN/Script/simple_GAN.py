@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/18m0HR4zBhUIx1EUKzzyazMHBj0Umliqj
 """
 
-!pip install torch
-!pip install torchvision
 
 import  torch
 import torch.nn as nn
